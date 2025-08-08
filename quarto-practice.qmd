@@ -60,7 +60,4 @@ sw_height_sd <- sd(starwars$height, na.rm = TRUE)
 
 The mean height of the characters in Star Wars is `r round(sw_height_mean, 1)` centimeters.
 
-```{r}
-
-```
 
